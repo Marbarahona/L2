@@ -1,0 +1,14 @@
+C:\Users\cbara\Downloads\mio (Marshell)\L2\Ejercicios Dev C#\Ejercicios\Ejercicio7 - Inventario POO\bin\Debug\netcoreapp3.1\inventario.exe
+C:\Users\cbara\Downloads\mio (Marshell)\L2\Ejercicios Dev C#\Ejercicios\Ejercicio7 - Inventario POO\bin\Debug\netcoreapp3.1\inventario.deps.json
+C:\Users\cbara\Downloads\mio (Marshell)\L2\Ejercicios Dev C#\Ejercicios\Ejercicio7 - Inventario POO\bin\Debug\netcoreapp3.1\inventario.runtimeconfig.json
+C:\Users\cbara\Downloads\mio (Marshell)\L2\Ejercicios Dev C#\Ejercicios\Ejercicio7 - Inventario POO\bin\Debug\netcoreapp3.1\inventario.runtimeconfig.dev.json
+C:\Users\cbara\Downloads\mio (Marshell)\L2\Ejercicios Dev C#\Ejercicios\Ejercicio7 - Inventario POO\bin\Debug\netcoreapp3.1\inventario.dll
+C:\Users\cbara\Downloads\mio (Marshell)\L2\Ejercicios Dev C#\Ejercicios\Ejercicio7 - Inventario POO\bin\Debug\netcoreapp3.1\inventario.pdb
+C:\Users\cbara\Downloads\mio (Marshell)\L2\Ejercicios Dev C#\Ejercicios\Ejercicio7 - Inventario POO\obj\Debug\netcoreapp3.1\inventario.csproj.AssemblyReference.cache
+C:\Users\cbara\Downloads\mio (Marshell)\L2\Ejercicios Dev C#\Ejercicios\Ejercicio7 - Inventario POO\obj\Debug\netcoreapp3.1\inventario.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\cbara\Downloads\mio (Marshell)\L2\Ejercicios Dev C#\Ejercicios\Ejercicio7 - Inventario POO\obj\Debug\netcoreapp3.1\inventario.AssemblyInfoInputs.cache
+C:\Users\cbara\Downloads\mio (Marshell)\L2\Ejercicios Dev C#\Ejercicios\Ejercicio7 - Inventario POO\obj\Debug\netcoreapp3.1\inventario.AssemblyInfo.cs
+C:\Users\cbara\Downloads\mio (Marshell)\L2\Ejercicios Dev C#\Ejercicios\Ejercicio7 - Inventario POO\obj\Debug\netcoreapp3.1\inventario.csproj.CoreCompileInputs.cache
+C:\Users\cbara\Downloads\mio (Marshell)\L2\Ejercicios Dev C#\Ejercicios\Ejercicio7 - Inventario POO\obj\Debug\netcoreapp3.1\inventario.dll
+C:\Users\cbara\Downloads\mio (Marshell)\L2\Ejercicios Dev C#\Ejercicios\Ejercicio7 - Inventario POO\obj\Debug\netcoreapp3.1\inventario.pdb
+C:\Users\cbara\Downloads\mio (Marshell)\L2\Ejercicios Dev C#\Ejercicios\Ejercicio7 - Inventario POO\obj\Debug\netcoreapp3.1\inventario.genruntimeconfig.cache

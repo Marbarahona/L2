@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "Q93mIyGJ5f8dPeq66ULu6tDWgGJqg/N6iFsJxMHUkRxESK4eg4E0NUSNOG/WUTsCNWJ3M8iUN0TT/yuAlmW+rA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\cbara\\Downloads\\mio (Marshell)\\L2\\Ejercicios Dev C#\\Ejercicios\\Ejercicio7 - Inventario POO\\inventario.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\cbara\\.nuget\\packages\\microsoft.netcore.app.ref\\3.1.0\\microsoft.netcore.app.ref.3.1.0.nupkg.sha512",
+    "C:\\Users\\cbara\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\3.1.0\\microsoft.windowsdesktop.app.ref.3.1.0.nupkg.sha512",
+    "C:\\Users\\cbara\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.10\\microsoft.aspnetcore.app.ref.3.1.10.nupkg.sha512",
+    "C:\\Users\\cbara\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.27\\microsoft.netcore.app.host.win-x64.3.1.27.nupkg.sha512"
+  ],
+  "logs": []
+}
